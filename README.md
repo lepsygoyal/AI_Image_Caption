@@ -3,7 +3,11 @@ Implementation of 'merge' architecture for generating image caption from paper "
 <hr>
 
 ## Some sample captions that are generated
+<img src="https://github.com/lepsygoyal/AI_Image_Caption/blob/main/Images/Img_1.png" width="950" height="600" />
 
+<img src="https://github.com/lepsygoyal/AI_Image_Caption/blob/main/Images/Img_2.png" width="950" height="600" />
+
+<img src="https://github.com/lepsygoyal/AI_Image_Caption/blob/main/Images/Img_3.png" width="950" height="600" />
 <hr>
 
 ## Getting Started
@@ -33,7 +37,7 @@ According to the paper, ["What is the Role of Recurrent Neural Networks (RNNs) i
 
 ## Architecuture used in Notebook:
 
-<img src="https://github.com/lepsygoyal/ai_image_caption_bot/blob/main/Architecture.png" width="750" height="600" />
+<img src="https://github.com/lepsygoyal/AI_Image_Caption/blob/main/Architecture.png" width="750" height="600" />
 
 <hr>
 
