@@ -3,11 +3,11 @@ Implementation of 'merge' architecture for generating image caption from paper "
 <hr>
 
 ## Some sample captions that are generated
-<img src="https://github.com/lepsygoyal/AI_Image_Caption/blob/main/Images/Img_1.png" width="950" height="600" />
+<img src="https://github.com/lepsygoyal/AI_Image_Caption/blob/main/Images/Img_1.png" width="950" height="500" />
 
-<img src="https://github.com/lepsygoyal/AI_Image_Caption/blob/main/Images/Img_2.png" width="950" height="600" />
+<img src="https://github.com/lepsygoyal/AI_Image_Caption/blob/main/Images/Img_2.png" width="950" height="500" />
 
-<img src="https://github.com/lepsygoyal/AI_Image_Caption/blob/main/Images/Img_3.png" width="950" height="600" />
+<img src="https://github.com/lepsygoyal/AI_Image_Caption/blob/main/Images/Img_3.png" width="950" height="500" />
 <hr>
 
 ## Getting Started
